@@ -1,6 +1,7 @@
 # Self-Driving-RC-Car
 Note: The Provided code is for Server and Client(Raspberry Pi) side code is in 'RaspberryPi Files' folder
-<p align="center"><img src = "https://github.com/abhinay-karrothu/Self-Driving-RC-Car/blob/master/images/unnamed-2.jpg?raw=true" width = 350px></img></p>
+<p><img src = "https://github.com/abhinay-karrothu/Self-Driving-RC-Car/blob/master/images/unnamed-2.jpg?raw=true" width = 350px>
+<img src = "https://github.com/abhinay-karrothu/Self-Driving-RC-Car/blob/master/images/unnamed-3.jpg?raw=true" width = 350px></img></p>
 
 
 A RC car powered by a Neural Network which predicts the Steering angle in which car should drive based on the image input captured from the Camera.
