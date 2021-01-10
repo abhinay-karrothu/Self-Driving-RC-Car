@@ -1,7 +1,8 @@
 # Self-Driving-RC-Car
 Note: The Provided code is for Server and Client(Raspberry Pi) side code is in 'RaspberryPi Files' folder
 
-https://github.com/abhinay-karrothu/Self-Driving-RC-Car/blob/master/images/unnamed-2.jpg
+!https://github.com/abhinay-karrothu/Self-Driving-RC-Car/blob/master/images/unnamed-2.jpg
+![alt RC Car](https://github.com/abhinay-karrothu/Self-Driving-RC-Car/blob/master/images/unnamed-2.jpg?raw=true)
 
 A RC car powered by a Neural Network which predicts the Steering angle in which car should drive based on the image input captured from the Camera.
 RC car is modified using Raspberry pi, Camera, Driver module and Servo motor to act as a real time car. The Raspbery pi is connected to a server using VidGear API and python sockets to trasfer the camera data and driving commands.
